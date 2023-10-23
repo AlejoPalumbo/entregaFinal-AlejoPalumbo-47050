@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+nav ul{
+    background-color: blue;
+    display: flex;
+    gap: 50px;
+    color: white;
+
+
+}
+
+nav ul li a{
+    color: white;
+}
+
+
+main{
+    background-color: gainsboro;
+
+}
+
+main div{
+    display: flex;
+    gap: 50px;
+}
